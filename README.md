@@ -17,3 +17,5 @@
 2. Чтение
 3. Путешествия
 4. Изучение языка Питон
+
+![IMG_9607](https://user-images.githubusercontent.com/127934956/227501266-3594e626-eefe-4ef4-90c2-d5adbbcd946d.jpeg)
